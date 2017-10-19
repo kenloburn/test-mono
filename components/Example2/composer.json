@@ -1,0 +1,15 @@
+{
+  "name": "rknol/example2",
+  "type": "library",
+  "license": "BSD 3-clause",
+  "authors": [
+    {
+      "name": "Ruben Knol",
+      "email": "ruben.knol@movingimage.com"
+    }
+  ],
+  "require": {},
+  "psr-4": {
+    "rknol\\Example\\": "src/"
+  }
+}
